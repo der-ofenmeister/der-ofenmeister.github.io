@@ -4,10 +4,10 @@ title: Home
 permalink: /
 ---
 
-# Ascending and Descending
+# Why MBAs suck
 
-> “It is better to solve one problem five different ways, than to solve five problems one way.” 
- -George Polya
+> “I have a list, but the space here is not enough to contain it.” 
+ -Pierre de Fermat
 
 ## Latest
 - [First Blog](/001.html)
